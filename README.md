@@ -74,4 +74,5 @@ Order Detail Page (Customer can track order in real-time):
 ## Authors
 
 - [@noob-nilarghya](https://www.github.com/noob-nilarghya)
+- [@shlokjjw](https://www.github.com/shlokjjw)
 
